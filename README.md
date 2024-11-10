@@ -14,17 +14,6 @@ This is <Jump Rope Counting> program for Korean users.
 
 
 
-<시스템 최소권장사항>
- 
--Python 3.8 or higher
-
--CUDA-capable GPU recommended (for faster inference)
-
--Webcam (for live video input)
-
--At least 4GB RAM
-
--At least 2GB free disk space
 
 
 <수정 및 개선할 사항>
