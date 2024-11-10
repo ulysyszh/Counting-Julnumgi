@@ -26,7 +26,7 @@ This is "Jump Rope Counting" program for Korean users.
 
 웹캠을 활용한 실시간 분석이 가능하도록 개선했습니다.
 
-영상 분석 결과를 result 디렉토리에 저장하도록 개선했습니다.
+영상 분석 결과를 results 디렉토리에 저장하도록 개선했습니다.
 
 *시작시 몇개가 한번에 올라가는 현상을 개선하겠습니다.
 
