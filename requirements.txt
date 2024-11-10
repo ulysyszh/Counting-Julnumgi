@@ -1,5 +1,9 @@
-streamlit
-opencv-python
-numpy
-pillow
-ultralytics
+# Core dependencies
+opencv-python>=4.8.0  # For video processing and computer vision
+numpy>=1.24.0        # For numerical operations
+Pillow>=10.0.0       # For image processing and font handling
+streamlit>=1.28.0    # For web interface
+ultralytics>=8.0.0   # For YOLO model
+
+# Optional but recommended
+python-dotenv>=1.0.0  # For environment variables management
