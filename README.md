@@ -3,7 +3,7 @@
 <2024년 이로운이들 교육연구회>의 연구 결과물입니다.
 
 -한국어 사용자를 위한 <줄넘기 세기> 프로그램입니다.
-This is <Jump Rope Counting> program for Korean users.
+This is "Jump Rope Counting" program for Korean users.
 
 -베이스 코드와 원리는 아래 레포지토리에서 기반합니다.
 
