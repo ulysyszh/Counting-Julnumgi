@@ -6,15 +6,12 @@
 Thanks to "https://github.com/AyushTCD/VisionBasedJumpRopeCounter"
 
 
-<Project Structure>
-![image](https://github.com/user-attachments/assets/d7f2ef95-c1b9-4602-aa5a-173b644256db)
 
 
 
 
-
-<System Requirements>
-  
+<시스템 최소권장사항>
+ 
 -Python 3.8 or higher
 
 -CUDA-capable GPU recommended (for faster inference)
