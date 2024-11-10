@@ -8,16 +8,20 @@ Thanks to "https://github.com/AyushTCD/VisionBasedJumpRopeCounter"
 
 <Project Structure>
 JumpCounter/
-├── assets/
-│   └── NanumGothic.ttf
-├── results/
-│   └── (output videos will be saved here)
-├── utils/
-│   ├── __init__.py
-│   ├── jump_counter.py
-│   └── font_manager.py
-├── app.py
-└── requirements.txt
+├── assets/ # Static assets directory
+│ └── NanumGothic.ttf # Korean font file for text display
+│
+├── results/ # Directory for output videos
+│ └── ... # Generated video files will be saved here
+│
+├── utils/ # Utility modules directory
+│ ├── init.py # Package initializer
+│ ├── jump_counter.py # Main jump counting logic
+│ └── font_manager.py # Font management utilities
+│
+├── app.py # Main Streamlit application
+├── requirements.txt # Project dependencies
+└── README.md # Project documentation
 
 
 <System Requirements>
