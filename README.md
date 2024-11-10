@@ -12,12 +12,18 @@ Thanks to "https://github.com/AyushTCD/VisionBasedJumpRopeCounter"
 
 
 
+
 <System Requirements>
-Python 3.8 or higher
-CUDA-capable GPU recommended (for faster inference)
-Webcam (for live video input)
-At least 4GB RAM
-At least 2GB free disk space
+  
+-Python 3.8 or higher
+
+-CUDA-capable GPU recommended (for faster inference)
+
+-Webcam (for live video input)
+
+-At least 4GB RAM
+
+-At least 2GB free disk space
 
 
 <수정 및 개선할 사항>
